@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/Hugo-AVG04/webApiExample/issues"
   },
-  "homepage": "https://github.com/Hugo-AVG04/webApiExample#readme"
+  "homepage": "https://github.com/Hugo-AVG04/webApiExample#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
 }
